@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body customizations */
+body
+{
+    height: 100%;
+    overflow: hidden;
+    background-color: #2531a7;
+}
+.login{
+    margin-top: -1%;
+    height: 100%;
+    width: 100%;  
+}
+/* Button customization */
+button{
+    position: absolute;
+    margin-top: 31%;
+    margin-left: -63.2%;
+    border-width: 2px;
+    border-color: white;
+}
+

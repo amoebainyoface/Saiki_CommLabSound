@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black;
+    height: 100%;
+    overflow: hidden;
+}
+/* constructing the button */
+.tenor{
+    margin-top: -5%;
+    height: 100%;
+    width: 100%;  
+}
+button{
+    margin-left: -41%;
+    margin-top: 36.2%;
+    position: absolute;
+    border-width: 3px;
+    border-color: rgb(96, 91, 91);
+
+}
+  /* gif dimensions */
+  .terminal{
+    height: 100%;
+    width: 100%;  
+  
+  }

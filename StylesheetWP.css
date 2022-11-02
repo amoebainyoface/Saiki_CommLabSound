@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    height: 100%;
+    background-color: #c3c7ca;
+}
+/* Background attributes */
+.bootup{
+    height: 100%;
+    width: 100%;  
+}
+/* Icon1 image attributes */
+.icon1{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 12%;
+    height: 20%;
+    cursor: pointer;
+}
+/* enlarges image when hovering with mouse */
+.icon1:hover{
+    transform:scale(1.1);
+}
+/* Icon2 image attributes */
+.icon2{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 22%;
+    height: 20%;
+    cursor: pointer;
+}
+/* enlarges image when hovering with mouse */
+.icon2:hover{
+    transform:scale(1.1);
+}
+/* Icon3 image attributes */
+.icon3{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 32%;
+    height: 20%;
+    cursor: pointer;
+}
+/* enlarges image when hovering with mouse */
+.icon3:hover{
+    transform:scale(1.1);
+}
+/* Icon4 image attributes */
+.icon4{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 42%;
+    height: 20%;
+    cursor: pointer;
+}
+/* enlarges image when hovering with mouse */
+.icon4:hover{
+    transform:scale(1.1);
+}
+/* Icon5 image attributes */
+.icon5{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 52%;
+    height: 20%;
+    cursor: pointer;
+}
+/* enlarges image when hovering with mouse */
+.icon5:hover{
+    transform:scale(1.1);
+}
